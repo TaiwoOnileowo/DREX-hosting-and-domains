@@ -1,8 +1,31 @@
-# React + Vite
+# DREX Hosting and Domains
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Overview
+This repository contains the source code for DREX Hosting and Domains Company website. 
 
-Currently, two official plugins are available:
+# Features
+- Responsive Design: Ensures a seamless experience across various devices.
+- Hosting Plans: Display and details of our hosting packages.
+- Newsletter: Sign up to our newsletter for more updates
+# Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Frontend:
+- HTML5
+- Tailwind CSS
+- JavaScript (ES6+)
+- React js
+
+#Getting Started
+
+1. Clone the repository:
+   git clone [https://github.com/TaiwoOnileowo/DREX-hosting-and-domains/]
+2. Install dependencies:
+   cd [project_directory]
+   npm install  # or yarn install
+3. Run the application:
+   npm run dev
+
+# CONTACT 
+
+Contact me on linkedin: [https://www.linkedin.com/in/taiwo-onileowo/]
+              gmail: taiwoonileowo17@gmail.com
